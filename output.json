@@ -1,0 +1,140 @@
+{
+  "version": "1.1",
+  "data": [
+    {
+      "title": "Government planning and control",
+      "paragraphs": [
+        {
+          "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+          "qas": [
+            {
+              "id": 7.0,
+              "question": "Who setup mahindra advance design europe?",
+              "answers": [
+                {
+                  "text": "mahindra group",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": 8.0,
+              "question": "Who was mahindra advanced design europe set up with?",
+              "answers": [
+                {
+                  "text": "Mahindra Global Design Network",
+                  "answer_start": 152
+                }
+              ]
+            },
+            {
+              "id": 9.0,
+              "question": "When was mahindra advanced design europe set up?",
+              "answers": [
+                {
+                  "text": "west midlands, uk",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": 10.0,
+              "question": "Where was mahindra advance design europe set up?",
+              "answers": [
+                {
+                  "text": "west midlands, uk",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Volva Cars, and Uber to be the voice of the nascent autonomous vehicle (\"AV\") industry. Since then, we are proud to have tripled in size, adding many of the worlds's leading technology, trucking. Ridesharing, and automotive companies as members of the Association.  This cross-section of companie demonstrates the widespread interest in developing AV technology across different sectors. ",
+          "qas": [
+            {
+              "id": 11.0,
+              "question": "Who will be the voice of autonomous vehicles?",
+              "answers": [
+                {
+                  "text": "Volva cars and Uber",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "With a fleet of autnomous Jaguar I-Pace vehicles, Wayve plans to expand beyond London as it has tested its technology in five other cities in the UK. Artificial intelligence expert Amar Shah founded the company alongside Alex Kendal in London in 2017. Shah led the firm as its CEO until 2020.",
+          "qas": [
+            {
+              "id": 4.0,
+              "question": "What is Wayve?",
+              "answers": [
+                {
+                  "text": "A fleet of autnomous Jaguar I-Pace vehicles",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "With a fleet of autnomous Jaguar I-Pace vehicles, Wayve plans to expand beyond London as it has tested its technology in five other cities in the UK. Artificial intelligence expert Amar Shah founded the company alongside tAlex Kendal in London in 2017. Shah led the firm as its CEO until 2020.",
+          "qas": [
+            {
+              "id": 1.0,
+              "question": "What was set up?",
+              "answers": [
+                {
+                  "text": "Wayve",
+                  "answer_start": 50
+                }
+              ]
+            },
+            {
+              "id": 2.0,
+              "question": "Who setup Wayve?",
+              "answers": [
+                {
+                  "text": "Amar shah",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": 3.0,
+              "question": "Who was Wayve setup with?",
+              "answers": [
+                {
+                  "text": "Alex Kendall",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": 5.0,
+              "question": "Where is Wayve planning to expand to?",
+              "answers": [
+                {
+                  "text": "London",
+                  "answer_start": 79
+                }
+              ]
+            },
+            {
+              "id": 6.0,
+              "question": "How many cities has it tested its technology in?",
+              "answers": [
+                {
+                  "text": "five",
+                  "answer_start": 121
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
